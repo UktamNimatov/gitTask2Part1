@@ -1,6 +1,8 @@
 HARK! hark! the lark at heaven's gate sings,
 And Phoebus 'gins arise, GIT_1
 His steeds to water at those springs GIT_1
+And Phoebus 'gins arise, GIT_2
+His steeds to water at those springs GIT_2
 On chaliced flowers that lies;
 And winking Mary-buds begin
 To ope their golden eyes:
